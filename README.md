@@ -4,6 +4,10 @@ A travel application has been created that obtains the location and date of the 
 is given with its lowest and highest value, and displays an image of the location using the information obtained from programming interfaces. External applications.
 3 APIs were used one for location (latitude and longitude) the second for weather and the third to get an image of the location
 ### notes: Node.js version is v20.10.0, npm version : 10.8.2
+# API information:
+#### USERNAME_KEY = nooraldeen
+#### WEATHER_KEY = 73bf165e4f4747dc9f71014b3547b6ba
+#### PICTURE_KEY = 45549307-63fd2d5b317a3f0b225e2710a
 
 # Skills used:
 ## The main goal is to deal with APIs and how to fetch them. I used the axios library for this task
