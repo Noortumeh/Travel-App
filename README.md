@@ -9,8 +9,7 @@ is given with its lowest and highest value, and displays an image of the locatio
 #### WEATHER_KEY = 73bf165e4f4747dc9f71014b3547b6ba
 #### PICTURE_KEY = 45549307-63fd2d5b317a3f0b225e2710a
  
- to use the API you need to create a .env file and then use the above APIs and put them in .env file 
-#
+##### to use the API you need to create a .env file and then use the above APIs and put them in .env file 
 and then in the server/server.js file do like this:
 ##### // Variables for api key
 ##### // API key for GeoNames
